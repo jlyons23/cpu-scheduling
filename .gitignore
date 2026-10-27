@@ -1,0 +1,6 @@
+# Build output
+/rr
+/constant
+/exponential
+/custom
+*.o
